@@ -1,4 +1,4 @@
-# frost-secu
+# Profile
 
 <h2 align="center">Used tech</h2>
 <p align="center">
