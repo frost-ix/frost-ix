@@ -8,5 +8,5 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&badge&logo=Figma&logoColor=white"></a> &nbsp
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats-git-master-frost-secu.vercel.app/)
+![Anurag's GitHub stats](https://github-readme-stats-git-master-frost-secu.vercel.app/api?username=frost-secu&show_icons=true&theme=aura_dark)
 
