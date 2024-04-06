@@ -30,7 +30,7 @@
   <h3 align=center>DB</h3>
   <div align=center>
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&badge&logo=Oracle&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&badge&logo=Oracle&logoColor=white">
+    <img src="https://img.shields.io/badge/Mongo-47A248?style=for-the-badge&badge&logo=MongoDB&logoColor=white">
   </div>
   <h3 align=center>Tools</h3>
   <div align=center>
