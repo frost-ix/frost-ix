@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=D2Coding&size=26&duration=3500&pause=7500&center=true&vCenter=true&random=false&width=435&lines=import+Back_end+from+%22world%22)](https://git.io/typing-svg)
-<h2 align=center>Student</h2>
   <div align=center>
     <h3>Most</h3>
     :: Back_end - Server ::
