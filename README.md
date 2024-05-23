@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=D2Coding&size=26&duration=3500&pause=7500&center=true&vCenter=true&random=false&width=435&lines=import+Back_end+from+%22world%22)](https://git.io/typing-svg)
   <div align=center>
     <h3>Most</h3>
-    :: Back_end - Server ::
+    :: Back_end && Server ::
     <h3>Contact :: click bottom</h3>
     <a href="mailto:shw9810@icloud.com">
     <img src="https://img.shields.io/badge/shw9810@icloud.com-3693F3?style=for-the-badge&badge&logo=iCLoud&logoColor=white">
@@ -19,12 +19,12 @@
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=black"/></a>
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"/></a>
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"></a>
-      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=Rust&logoColor=white"/>
     </div>
   <h3 align=center>Framework</h3>
     <div align=center>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/></a>
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=Spring-Boot&logoColor=white"/>
     </div> 
   <h3 align=center>DB</h3>
   <div align=center>
