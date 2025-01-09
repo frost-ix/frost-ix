@@ -8,7 +8,7 @@
 
   <h3>Device</h3>
     <div>
-      <img src="https://img.shields.io/badge/16' M1 Pro-000000?style=for-the-badge&badge&logo=apple&logoColor=white"></a>
+      <img src="https://img.shields.io/badge/14' M1 Pro-000000?style=for-the-badge&badge&logo=apple&logoColor=white"></a>
       <img src="https://img.shields.io/badge/G14 R9 4900hs-FF0029?style=for-the-badge&badge&logo=republicofgamers&logoColor=white">
       <img src="https://img.shields.io/badge/Legion Y700 Gen2-E2231A?style=for-the-badge&badge&logo=Lenovo&logoColor=white">
     </div>
