@@ -35,13 +35,10 @@
     </div>
   <h3>Tools</h3>
   <div>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&badge&logo=Docker&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&badge&logo=Oracle&logoColor=white"></a>
-    <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&badge&logo=Google Gemini&logoColor=white">
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&badge&logo=Docker&logoColor=white"></a>
+      <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&badge&logo=Oracle&logoColor=white"></a>
+      <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&badge&logo=JetBrains&logoColor=white"></a>
     </br>
-  <img src="https://img.shields.io/badge/Code-007ACC?style=for-the-badge&badge&logo=Visual Studio Code&logoColor=white">
-  <img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&badge&logo=JetBrains&logoColor=white"></a>
-    </br>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&badge&logo=Notion&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Deck Mini-101010?style=for-the-badge&badge&logo=Elgato&logoColor=white">
+      <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&badge&logo=Notion&logoColor=white"></a>
+      <img src="https://img.shields.io/badge/Deck Mini-101010?style=for-the-badge&badge&logo=Elgato&logoColor=white">
   </div>
