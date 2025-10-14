@@ -4,10 +4,14 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=D2Coding&size=26&duration=3500&pause=7500&center=true&vCenter=true&random=false&width=435&lines=import+Back_end+from+%22world%22)](https://git.io/typing-svg)
 <h3>Info</h3>
-<ol>
-    <ul>Working : G-inno (2025.01.02 ~)</ul>
-    <ul>Birth : 1998.10.10</ul>
-</ol>
+<ul>
+    <li>Working : G-inno (2025.01.02 ~)</li>
+    <li>Birth : 1998.10.10</li>
+</ul>
+<h3>release</h3>
+<ul>
+    <li>stardream discord bot (2025.10.12 ~)</li>
+</ul>
 <h3>Contact :: click bottom</h3>
     <a href="mailto:shw9810@icloud.com">
     <img src="https://img.shields.io/badge/shw9810@icloud.com-3693F3?style=for-the-badge&badge&logo=iCLoud&logoColor=white">
