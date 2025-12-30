@@ -8,9 +8,8 @@
     <li>Working : G-inno (2025.01.02 ~)</li>
     <li>Birth : 1998.10.10</li>
 </ul>
-<h3>release</h3>
 <ul>
-    <li>stardream discord bot (2025.10.12 ~)</li>
+    <li>stardream discord bot (2025.10.12 ~ 2025.11.20)</li>
 </ul>
 <h3>Contact :: click bottom</h3>
     <a href="mailto:shw9810@icloud.com">
