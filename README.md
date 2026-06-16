@@ -26,6 +26,7 @@
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=black"/>
       <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />
       <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Go-007396?style=for-the-badge&logo=go&logoColor=#00ADD8"/>
     </div>
   <h3>Framework</h3>
   <div>
