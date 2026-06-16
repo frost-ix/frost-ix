@@ -9,7 +9,13 @@
     <li>Birth : 1998.10.10</li>
 </ul>
 <ul>
-    <li>stardream discord bot (2025.10.12 ~ 2025.11.20)</li>
+    <li><p>stardream discord bot</p>
+        <p>(2025.10.12 ~ 2025.11.20)</p>
+    </li>
+    <li>
+        <p>b-info (iidx table information site) <a href="iidx.b-info.pe.kr">b-info</a></p>
+        <p>2026.0616~</p>
+    </li>
 </ul>
 <h3>Contact :: click bottom</h3>
     <a href="mailto:shw9810@icloud.com">
